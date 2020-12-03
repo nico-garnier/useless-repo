@@ -1,5 +1,4 @@
 # useless-repo
-For github graphql calls only
+For github stat on top collaborators only.
 
 Will be deleted soon.
-Ahah
